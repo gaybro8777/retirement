@@ -45,7 +45,7 @@
     "gulp-rename": "1.4.0",
     "gulp-sourcemaps": "2.6.4",
     "jquery": "1.12.2",
-    "minimist": "1.2.0",
+    "minimist": "1.2.6",
     "mocha": "5.2.0",
     "protractor": "5.4.0",
     "require-dir": "1.0.0",
